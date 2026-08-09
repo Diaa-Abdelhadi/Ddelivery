@@ -1,6 +1,6 @@
 Ddelivery – Food Delivery Backend API
 Ddelivery is a full-featured ASP.NET Core Web API for a multi-role food delivery platform. It provides secure authentication, restaurant and menu management, cart and order handling with a full delivery lifecycle, live order tracking, driver earnings, reviews, localization, and role-based user management.
-This project follows clean architecture principles (DAL / BLL / PL) and modern backend best practices.
+This project follows N-tire architecture principles (DAL / BLL / PL) and modern backend best practices.
 
 🚀 Features
 
