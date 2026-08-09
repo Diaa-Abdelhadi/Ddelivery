@@ -1,0 +1,18 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=(localdb)\\MSSQLLocalDB;Database=DdeliveryDB;Trusted_Connection=True;TrustServerCertificate=True"
+  },
+  "MailTrap": {
+    "ApiToken": "",
+    "InboxId": ""
+  },
+  "Jwt": {
+    "SecretKey": ""
+  }
+}

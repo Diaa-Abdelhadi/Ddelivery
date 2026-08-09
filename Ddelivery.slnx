@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Ddelivery.BLL/Ddelivery.BLL.csproj" />
+  <Project Path="Ddelivery.DAL/Ddelivery.DAL.csproj" />
+  <Project Path="Ddelivery.PL/Ddelivery.PL.csproj" />
+</Solution>
